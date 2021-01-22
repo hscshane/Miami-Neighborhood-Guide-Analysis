@@ -37,7 +37,7 @@ K-Means
 
 ###############################################################
 
-Files:
+5. Files:
 
 project_report.pdf gives the full report.
 
